@@ -1,4 +1,4 @@
-# Bureau-of-Indian-Standards-BIS-C-DAC-Website-and-Login-Portal
+# C-DAC-Website
 
 Organisation : Centre for Development of Advanced Computing (C-DAC), Noida
 
